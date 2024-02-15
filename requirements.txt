@@ -1,2 +1,2 @@
 pyppeteer==0.0.25
-scrapy==1.8.0
+scrapy==2.11.1
